@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript,React**
 
-- 👨‍💻 All of my projects are available at [tldayan.aws](tldayan.aws)
+- 👨‍💻 All of my projects are available at [[tldayan.aws](https://tldayan.netlify.app/)]([tldayan.aws](https://tldayan.netlify.app/))
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
