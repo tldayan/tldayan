@@ -3,14 +3,13 @@
 <h3 align="center">A solution-focused front-end developer()</h3>
 <img align="right" alt="Coding" width="300" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tldayan&label=Profile%20views&color=000000&style=flat" alt="tldayan" /> </p>
-
 - 🔭 I’m currently working on my **Personal Portfolio**
 
 - 🌱 I’m currently learning **Javascript, React**
 
 - 👨‍💻 All of my projects are available at [https://tldayan.netlify.app](https://tldayan.netlify.app)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript**
 
 - 📫 How to reach me **tldayan22@gmail.com**
 
