@@ -15,7 +15,7 @@
 - 📫 How to reach me **tldayan22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/tldayan" target="_blank">
+<a href="https://www.linkedin.com/in/tldayan">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white">
   </a>
 
