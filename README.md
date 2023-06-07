@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/tldayan/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white">
 </p>
 
 #### Programming languages
