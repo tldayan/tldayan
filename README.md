@@ -19,7 +19,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white">
   </a>
 
-#### Programming languages
+#### Languages
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -28,7 +28,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcdc00.svg?logo=javascript&logoColor=black">
 </p>
 
-#### Frameworks & libraries
+#### Frameworks & Libraries
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
