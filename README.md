@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my Personal Portfolio
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://tldayan.netlify.app](https://tldayan.netlify.app)
 
