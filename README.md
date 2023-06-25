@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tldayan.netlify.app](https://tldayan.netlify.app)
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **Javascript,React**
 
 - 📫 How to reach me **tldayan22@gmail.com**
 
