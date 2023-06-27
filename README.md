@@ -33,7 +33,6 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
   <img alt="React" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white">
-  <!-- <img alt="Material UI" src="https://img.shields.io/badge/MUI-ffffff.svg?logo=mui&logoColor=007fff">   -->
 </p>
 
 #### Tools
