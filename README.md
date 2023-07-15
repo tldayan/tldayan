@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tldayan&label=Profile%20views&color=000000&style=flat" alt="tldayan" /> </p>
 
-- 🔭 I’m currently working on my Personal Portfolio
+- 🔭 I’m currently working on ReelVault, An React application to stream Movies
 
 - 🌱 I’m currently learning **React**
 
