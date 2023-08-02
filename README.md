@@ -33,6 +33,8 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
     <img alt="React_Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=flat">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat">
+
   <img alt="React" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white">
 </p>
 
