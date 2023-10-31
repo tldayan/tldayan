@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <strong>ReelVault</strong>, A React application to stream Movies & Shows
 
-- 🌱 I’m currently learning **NodeJs & React Native**
+- 🌱 I’m currently learning **TypeScript & Gatsby**
 
 - 👨‍💻 All of my projects are available at [https://tldayan.netlify.app](https://tldayan.netlify.app)
 
