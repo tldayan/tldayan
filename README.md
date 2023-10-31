@@ -27,6 +27,8 @@
   <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fcdc00.svg?logo=javascript&logoColor=black">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+
 
 </p>
 
