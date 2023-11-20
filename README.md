@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Gatsby**
 
-- 👨‍💻 All of my projects are available at [https://tldayan.netlify.app](https://tldayan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tldayan.netlify.app](https://tldayan.vercel.app)
 
 - 💬 Ask me about **Javascript,React**
 
