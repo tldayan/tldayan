@@ -39,6 +39,7 @@
     <img alt="React_Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=flat">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat">
     <img alt="React" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
     <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399.svg?logo=gatsby&logoColor=white">
     <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=json-web-tokens&logoColor=white">
 </p>
