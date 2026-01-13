@@ -1,6 +1,6 @@
 ![Master Head](https://raw.githubusercontent.com/tldayan/tldayan/main/UVS9UPhLVbjL_1584_396.png)
 
-<h3 align="center">A solution-focused front-end developer()</h3>
+<h3 align="center">A solution-focused full-stack developer()</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tldayan&label=Profile%20views&color=000000&style=flat" alt="tldayan" /> </p>
 
