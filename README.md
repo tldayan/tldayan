@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tldayan&label=Profile%20views&color=000000&style=flat" alt="tldayan" /> </p>
 
-- 🔭 I’m currently working on <strong>Fityr</strong>, A NextJs application for fitness enthusiasts.
+- 🔭 I’m currently working on <strong><a href="https://fityr.xyz/" target="_blank">Fityr</a></strong>, a Next.js application for fitness enthusiasts.
 
 - 🌱 I’m currently learning **TypeScript & Gatsby**
 
